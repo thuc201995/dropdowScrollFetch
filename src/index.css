@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#container {
+  width: 500px;
+  margin: auto;
+}
+
+#heading {
+  text-align: center;
+}
+
+#topDiv {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+#mainDiv {
+  height: 100px;
+}
